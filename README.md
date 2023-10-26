@@ -3,4 +3,6 @@ Ops 201 challenges
 
 ##
 creating some scripts today
-blah blaah
+
+This was a difficult assigment but i was able to push through and get it done!
+interesting topic
