@@ -1,3 +1,3 @@
 # Ops 201 Challenges
-- [Challenge-1](helloworld.sh)
-- [Challenge-2](functions.sh)
+- [Challenge-class02](helloworld.sh)
+- [Challenge-class03](functions.sh)
