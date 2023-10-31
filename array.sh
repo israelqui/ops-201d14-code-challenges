@@ -45,7 +45,8 @@ for ((i=0; i<"${#directories_paths[@]}"; i++)) do
 done
 
 
-## echo "four  directories (${directoreis[*]}) and .txt files created."
+##
+echo "four  directories (${directoreis[*]}) and .txt files created."
 
 
 # End
