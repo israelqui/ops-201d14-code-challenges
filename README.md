@@ -5,3 +5,4 @@
 - [Challenge-class05](loops.sh)
 - [Challenge-class06](conditionals.sh)
 - [Challenge-class07](system_info.sh)
+- [Challenge-class08](batch.bat)
