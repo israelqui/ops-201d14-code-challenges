@@ -6,3 +6,5 @@
 - [Challenge-class06](conditionals.sh)
 - [Challenge-class07](system_info.sh)
 - [Challenge-class08](batch.bat)
+- [Challenge-Class09](logpowershell.md)
+- [Challenge-Class10](systems-process-commands.md)
