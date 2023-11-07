@@ -8,3 +8,4 @@
 - [Challenge-class08](batch.bat)
 - [Challenge-Class09](logpowershell.md)
 - [Challenge-Class10](systems-process-commands.md)
+- [Challenge-Class11](automated-endpoint-config.ps1)
