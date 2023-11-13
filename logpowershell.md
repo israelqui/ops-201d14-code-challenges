@@ -13,10 +13,10 @@
 
 4. Print to the screen the most recent 20 entries from the System event log.’
 
-``Get-EventLog -LogName System -MaxEvents 20 | Format-Table -AutoSize``
+`Get-EventLog -LogName System -MaxEvents 20 | Format-Table -AutoSize`
+
 5. Print to the screen all sources of the 500 most recent entries in the System event log. Ensure that the full lines are displayed (get rid of the … and show the entire text).
 
 `Get-EventLog -LogName System -MaxEvents 500 | Select-Object -ExpandProperty ProviderName | Format-Table -AutoSize`
 
-### sources
 
