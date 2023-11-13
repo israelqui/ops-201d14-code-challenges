@@ -36,6 +36,7 @@ PowerShell scripts would be a useful to improve because it is capable to automat
 ## What aspect of your shell scripting skillset do you hope to improve next?
 I would improve my understanding in scripting for different systems. For windows Power Shell, it would be my top priority at the moment. Concepts of RDP and professionally manage directories files and commands from my own computer into others.
 
+### The following are all my challenges completed during my 201 class.
 - [Challenge-class02](helloworld.sh)
 - [Challenge-class03](functions.sh)
 - [Challenge-class04](array.sh)
