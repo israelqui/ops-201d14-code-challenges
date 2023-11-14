@@ -37,13 +37,13 @@ PowerShell scripts would be a useful to improve because it is capable to automat
 I would improve my understanding in scripting for different systems. For windows Power Shell, it would be my top priority at the moment. Concepts of RDP and professionally manage directories files and commands from my own computer into others.
 
 ### The following are all my challenges completed during my 201 class.
-- [Challenge-class02](helloworld.sh)
-- [Challenge-class03](functions.sh)
-- [Challenge-class04](array.sh)
-- [Challenge-class05](loops.sh)
-- [Challenge-class06](conditionals.sh)
-- [Challenge-class07](system_info.sh)
-- [Challenge-class08](batch.bat)
-- [Challenge-Class09](logpowershell.md)
-- [Challenge-Class10](systems-process-commands.md)
-- [Challenge-Class11](automated-endpoint-config.ps1)
+- [Hello World!](helloworld.sh)
+- [Functions](functions.sh)
+- [Arrays](array.sh)
+- [Loops](loops.sh)
+- [Conditionals](conditionals.sh)
+- [System Information](system_info.sh)
+- [Windows Batch Scripting](batch.bat)
+- [Log Retrieval Via Powershell](logpowershell.md)
+- [System Process Commands](systems-process-commands.md)
+- [Automated Endpoint Configuration](automated-endpoint-config.ps1)
