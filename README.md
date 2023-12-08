@@ -3,8 +3,10 @@
 ## What is this repo all about?
 This Repo is about all the code challenges I was assigned for Ops-201
 ## Why are you learning these skills?
-The reason I'm learning these skills is to have a career in Tech. 
+The reason I'm learning these skills is to have a career in Tech.
+ 
 ## What fundamental concepts did you learn in Ops 201?
+
 - Technical Service and Support: Customer service, 
 Endpoint technical support, 
 Issue tracking system, 
@@ -15,10 +17,12 @@ Service level agreement (SLA),
 Technical project support, 
 Technical reporting and communication, 
 Troubleshooting methodology. 
+
 - Hardware and Software: Endpoint imaging, backup, and recovery. 
 Windows 10 troubleshooting and configuration, 
 Performance monitoring and tuning,
 Software application deployment, updating, and removal.
+
 - Infrastructure connectivity: Active Directory user support, 
 Cloud instance deployment, 
 Network protocols and concepts (TCP/IP, DHCP, DNS, LAN, SMTP, WAN, VPN), 
